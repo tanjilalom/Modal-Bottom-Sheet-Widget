@@ -52,13 +52,6 @@ class _MyhomePageState extends State<MyhomePage> {
                       //leading: CircleAvatar (backgroundImage: NetworkImage("link")),
                       trailing: Icon(Icons.save_alt_rounded),
                     ),
-                    ListTile(
-                      title: Text("Android Operating System"),
-                      subtitle: Text("Android OS that run in android phone"),
-                      leading: CircleAvatar (child: Icon(Icons.book_outlined)),
-                      //leading: CircleAvatar (backgroundImage: NetworkImage("link")),
-                      trailing: Icon(Icons.save_alt_rounded),
-                    ),
                   ],
                 ),
               );
